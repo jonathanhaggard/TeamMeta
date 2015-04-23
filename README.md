@@ -1,3 +1,3 @@
 #Team Meta
-[Demo](http://getskeleton.com)
+[Demo](http://metasixfifteen.com/prototypes/team/)
 
